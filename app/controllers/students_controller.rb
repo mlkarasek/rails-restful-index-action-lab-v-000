@@ -1,6 +1,6 @@
 class StudentsController < ApplicationController
 
-  get '/' do 
+  get '/' do
     erb:index
   end 
 end
